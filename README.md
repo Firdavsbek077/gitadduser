@@ -1,0 +1,2 @@
+# gitadduser
+samandar aka qandaysiz
